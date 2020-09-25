@@ -7,10 +7,16 @@ public class circle {
        radius = r;
     }
 
-    public setradius(float newval) {
+    public void setradius(float newval) {
         radius = newval;
 
     }
+
+    public float areal(){
+        return (flaot)(Math.PI*Math.pow(radius.2))
+
+    }
+
 
     public String toString() {
         return "radius: " + radius;

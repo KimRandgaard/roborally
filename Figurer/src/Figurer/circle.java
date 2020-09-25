@@ -13,7 +13,7 @@ public class circle {
     }
 
     public float areal(){
-        return (flaot)(Math.PI*Math.pow(radius.2))
+        return (float)(Math.PI*Math.pow(radius,2));
 
     }
 

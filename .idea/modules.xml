@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/Figurer/Figurer.iml" filepath="$PROJECT_DIR$/Figurer/Figurer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Indledendeprogrammering/Indledendeprogrammering.iml" filepath="$PROJECT_DIR$/Indledendeprogrammering/Indledendeprogrammering.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntelliJ.iml" filepath="$PROJECT_DIR$/IntelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion1/Lektion1.iml" filepath="$PROJECT_DIR$/Lektion1/Lektion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion2/Lektion2.iml" filepath="$PROJECT_DIR$/Lektion2/Lektion2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion3/Lektion3.iml" filepath="$PROJECT_DIR$/Lektion3/Lektion3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgave4/Opgave4.iml" filepath="$PROJECT_DIR$/Opgave4/Opgave4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testmetode/Testmetode.iml" filepath="$PROJECT_DIR$/Testmetode/Testmetode.iml" />
     </modules>
   </component>

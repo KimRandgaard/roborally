@@ -1,6 +1,6 @@
 import Figurer.circle;
 
-public class Test {
+public class radius {
     public static void main(String[] args) {
 
         circle c1 = new circle(2.0f);
@@ -10,6 +10,8 @@ public class Test {
         c1.setradius(5.0f);
 
         System.out.println(c1);
+
+        System.out.println("areal er " + c1.areal());
 
     }
 

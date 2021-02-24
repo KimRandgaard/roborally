@@ -4,45 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6da4b6d0-ab10-4ad5-989f-865f141e371b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../17-CDIO-2-master/17-CDIO-2-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../17-CDIO-2-master/17-CDIO-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../45_del1/45_del1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../45_del1/Tern/Tern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cylendertest/Cylendertest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cylindertest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester1/CDIO1/CDIO1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester1/CDIO2/CDIO2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester1/CDIO3/CDIO3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester1/IndledendeProgramering/IndledendeProgramering.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester1/Java_test/Java_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester1/Semester1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester1/Versionsstyring/Regnemaskine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Semester1/Versionsstyring/Versionsstyring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Test2/Test2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../roborally-initial/roborally.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    <list default="true" id="6da4b6d0-ab10-4ad5-989f-865f141e371b" name="Default Changelist" comment="First commit - copyed test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +32,9 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StartRoboRally">
     <configuration name="StartRoboRally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dk.dtu.compute.se.pisd.roborally.StartRoboRally" />
       <module name="roborally" />
@@ -84,9 +48,88 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameControllerTest.fastForward" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="roborally" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.dtu.compute.se.pisd.roborally.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dk.dtu.compute.se.pisd.roborally.controller" />
+      <option name="MAIN_CLASS_NAME" value="dk.dtu.compute.se.pisd.roborally.controller.GameControllerTest" />
+      <option name="METHOD_NAME" value="fastForward" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameControllerTest.moveForward" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="roborally" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.dtu.compute.se.pisd.roborally.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dk.dtu.compute.se.pisd.roborally.controller" />
+      <option name="MAIN_CLASS_NAME" value="dk.dtu.compute.se.pisd.roborally.controller.GameControllerTest" />
+      <option name="METHOD_NAME" value="moveForward" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameControllerTest.turnLeft" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="roborally" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.dtu.compute.se.pisd.roborally.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dk.dtu.compute.se.pisd.roborally.controller" />
+      <option name="MAIN_CLASS_NAME" value="dk.dtu.compute.se.pisd.roborally.controller.GameControllerTest" />
+      <option name="METHOD_NAME" value="turnLeft" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameControllerTest.turnRight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="roborally" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.dtu.compute.se.pisd.roborally.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dk.dtu.compute.se.pisd.roborally.controller" />
+      <option name="MAIN_CLASS_NAME" value="dk.dtu.compute.se.pisd.roborally.controller.GameControllerTest" />
+      <option name="METHOD_NAME" value="turnRight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.StartRoboRally" />
+        <item itemvalue="JUnit.GameControllerTest.turnLeft" />
+        <item itemvalue="JUnit.GameControllerTest.turnRight" />
+        <item itemvalue="JUnit.GameControllerTest.fastForward" />
+        <item itemvalue="JUnit.GameControllerTest.moveForward" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +143,16 @@
       <updated>1612872729071</updated>
       <workItem from="1612872730976" duration="1737000" />
       <workItem from="1612882187744" duration="1069000" />
+      <workItem from="1614154010509" duration="4886000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit - copyed test">
+      <created>1614154153940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614154153940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,5 +169,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit - copyed test" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit - copyed test" />
   </component>
 </project>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2697c041-00e4-46ec-ac5d-c3bcc269fa8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../17-CDIO-2-master/17-CDIO-2-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../17-CDIO-2-master/17-CDIO-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../45_del1/45_del1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../45_del1/Tern/Tern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cylendertest/Cylendertest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cylindertest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester1/CDIO1/CDIO1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester1/CDIO2/CDIO2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester1/CDIO3/CDIO3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester1/IndledendeProgramering/IndledendeProgramering.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester1/Java_test/Java_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester1/Semester1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester1/Versionsstyring/Regnemaskine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Semester1/Versionsstyring/Versionsstyring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test2/Test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roborally.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../roborally/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nxzTFlkqDMMFFbaqUV2LPbBGHY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.42413792" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2697c041-00e4-46ec-ac5d-c3bcc269fa8d" name="Default Changelist" comment="" />
+      <created>1612346537627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612346537627</updated>
+      <workItem from="1612346538917" duration="393000" />
+      <workItem from="1612869978177" duration="153000" />
+      <workItem from="1612870159423" duration="67000" />
+      <workItem from="1612870265292" duration="422000" />
+      <workItem from="1612872711794" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="750" y="482" key="#Notifications" timestamp="1612346574586">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state x="750" y="482" key="#Notifications/0.23.2048.1257@0.23.2048.1257" timestamp="1612346574586" />
+    <state x="712" y="394" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1612870175744">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state x="712" y="394" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2048.1257@0.23.2048.1257" timestamp="1612870175744" />
+    <state x="512" y="233" width="1331" height="722" key="SettingsEditor" timestamp="1612870019170">
+      <screen x="0" y="23" width="2048" height="1257" />
+    </state>
+    <state x="512" y="233" width="1331" height="722" key="SettingsEditor/0.23.2048.1257@0.23.2048.1257" timestamp="1612870019170" />
+  </component>
+</project>
